@@ -1,0 +1,153 @@
+2024-12-27 17:46:31 [main] INFO  TestUtils.WebDriverUtils - returning the thread local webdriver
+2024-12-27 17:46:31 [main] INFO  StepDefinitions.CustomerOnboardStepDef - get the launched webdriver
+2024-12-27 17:46:31 [main] INFO  TestUtils.WebDriverUtils - returning the thread local webdriver
+2024-12-27 17:46:31 [main] INFO  StepDefinitions.CustomerOnboardStepDef - launching c_ledger url
+2024-12-27 17:46:34 [main] INFO  StepDefinitions.CustomerOnboardStepDef - getting the first chrome tab handle and store it
+2024-12-27 17:46:34 [main] INFO  StepDefinitions.CustomerOnboardStepDef - entered credentials and click login the c_ledger
+2024-12-27 17:48:14 [main] INFO  TestUtils.WebDriverUtils - returning the thread local webdriver
+2024-12-27 17:48:14 [main] INFO  StepDefinitions.CustomerOnboardStepDef - get the launched webdriver
+2024-12-27 17:48:14 [main] INFO  TestUtils.WebDriverUtils - returning the thread local webdriver
+2024-12-27 17:48:14 [main] INFO  StepDefinitions.CustomerOnboardStepDef - launching c_ledger url
+2024-12-27 17:48:17 [main] INFO  StepDefinitions.CustomerOnboardStepDef - getting the first chrome tab handle and store it
+2024-12-27 17:48:17 [main] INFO  StepDefinitions.CustomerOnboardStepDef - entered credentials and click login the c_ledger
+2024-12-27 17:49:05 [main] INFO  TestUtils.WebDriverUtils - returning the thread local webdriver
+2024-12-27 17:49:05 [main] INFO  StepDefinitions.CustomerOnboardStepDef - get the launched webdriver
+2024-12-27 17:49:05 [main] INFO  TestUtils.WebDriverUtils - returning the thread local webdriver
+2024-12-27 17:49:05 [main] INFO  StepDefinitions.CustomerOnboardStepDef - launching c_ledger url
+2024-12-27 17:49:08 [main] INFO  StepDefinitions.CustomerOnboardStepDef - getting the first chrome tab handle and store it
+2024-12-27 17:49:08 [main] INFO  StepDefinitions.CustomerOnboardStepDef - entered credentials and click login the c_ledger
+2024-12-27 17:50:03 [main] INFO  TestUtils.WebDriverUtils - returning the thread local webdriver
+2024-12-27 17:50:03 [main] INFO  StepDefinitions.CustomerOnboardStepDef - get the launched webdriver
+2024-12-27 17:50:03 [main] INFO  TestUtils.WebDriverUtils - returning the thread local webdriver
+2024-12-27 17:50:03 [main] INFO  StepDefinitions.CustomerOnboardStepDef - launching c_ledger url
+2024-12-27 17:50:06 [main] INFO  StepDefinitions.CustomerOnboardStepDef - getting the first chrome tab handle and store it
+2024-12-27 17:50:06 [main] INFO  StepDefinitions.CustomerOnboardStepDef - entered credentials and click login the c_ledger
+2024-12-27 17:53:02 [main] INFO  TestUtils.WebDriverUtils - returning the thread local webdriver
+2024-12-27 17:53:02 [main] INFO  StepDefinitions.CustomerOnboardStepDef - get the launched webdriver
+2024-12-27 17:53:02 [main] INFO  TestUtils.WebDriverUtils - returning the thread local webdriver
+2024-12-27 17:53:02 [main] INFO  StepDefinitions.CustomerOnboardStepDef - launching c_ledger url
+2024-12-27 17:53:05 [main] INFO  StepDefinitions.CustomerOnboardStepDef - getting the first chrome tab handle and store it
+2024-12-27 17:53:05 [main] INFO  StepDefinitions.CustomerOnboardStepDef - entered credentials and click login the c_ledger
+2024-12-27 17:54:43 [main] INFO  TestUtils.WebDriverUtils - returning the thread local webdriver
+2024-12-27 17:54:43 [main] INFO  StepDefinitions.CustomerOnboardStepDef - get the launched webdriver
+2024-12-27 17:54:43 [main] INFO  TestUtils.WebDriverUtils - returning the thread local webdriver
+2024-12-27 17:54:43 [main] INFO  StepDefinitions.CustomerOnboardStepDef - launching c_ledger url
+2024-12-27 17:54:46 [main] INFO  StepDefinitions.CustomerOnboardStepDef - getting the first chrome tab handle and store it
+2024-12-27 17:54:46 [main] INFO  StepDefinitions.CustomerOnboardStepDef - entered credentials and click login the c_ledger
+2024-12-27 17:54:46 [main] INFO  StepDefinitions.CustomerOnboardStepDef - Confirms that we ar in the home page of cledger
+2024-12-27 17:57:18 [main] INFO  TestUtils.WebDriverUtils - returning the thread local webdriver
+2024-12-27 17:57:18 [main] INFO  StepDefinitions.CustomerOnboardStepDef - get the launched webdriver
+2024-12-27 17:57:18 [main] INFO  TestUtils.WebDriverUtils - returning the thread local webdriver
+2024-12-27 17:57:18 [main] INFO  StepDefinitions.CustomerOnboardStepDef - launching c_ledger url
+2024-12-27 17:57:20 [main] INFO  StepDefinitions.CustomerOnboardStepDef - getting the first chrome tab handle and store it
+2024-12-27 17:57:20 [main] INFO  StepDefinitions.CustomerOnboardStepDef - entered credentials and click login the c_ledger
+2024-12-27 17:57:21 [main] INFO  StepDefinitions.CustomerOnboardStepDef - Confirms that we ar in the home page of cledger
+2024-12-27 17:57:21 [main] INFO  StepDefinitions.CustomerOnboardStepDef - preparing xml file to upload
+2024-12-27 18:00:34 [main] INFO  StepDefinitions.CustomerOnboardStepDef - get the launched webdriver
+2024-12-27 18:00:35 [main] INFO  TestUtils.WebDriverUtils - returning the thread local webdriver
+2024-12-27 18:00:35 [main] INFO  StepDefinitions.CustomerOnboardStepDef - launching c_ledger url
+2024-12-27 18:00:38 [main] INFO  StepDefinitions.CustomerOnboardStepDef - getting the first chrome tab handle and store it
+2024-12-27 18:00:38 [main] INFO  StepDefinitions.CustomerOnboardStepDef - entered credentials and click login the c_ledger
+2024-12-27 18:00:39 [main] INFO  StepDefinitions.CustomerOnboardStepDef - Confirms that we ar in the home page of cledger
+2024-12-27 18:00:39 [main] INFO  StepDefinitions.CustomerOnboardStepDef - preparing xml file to upload
+2024-12-27 18:01:03 [main] INFO  StepDefinitions.CustomerOnboardStepDef - get the launched webdriver
+2024-12-27 18:01:03 [main] INFO  TestUtils.WebDriverUtils - returning the thread local webdriver
+2024-12-27 18:01:03 [main] INFO  StepDefinitions.CustomerOnboardStepDef - launching c_ledger url
+2024-12-27 18:01:06 [main] INFO  StepDefinitions.CustomerOnboardStepDef - getting the first chrome tab handle and store it
+2024-12-27 18:01:06 [main] INFO  StepDefinitions.CustomerOnboardStepDef - entered credentials and click login the c_ledger
+2024-12-27 18:01:07 [main] INFO  StepDefinitions.CustomerOnboardStepDef - Confirms that we ar in the home page of cledger
+2024-12-27 18:01:15 [main] INFO  StepDefinitions.CustomerOnboardStepDef - preparing xml file to upload
+2024-12-27 18:10:27 [main] INFO  StepDefinitions.CustomerOnboardStepDef - get the launched webdriver
+2024-12-27 18:10:28 [main] INFO  TestUtils.WebDriverUtils - returning the thread local webdriver
+2024-12-27 18:10:28 [main] INFO  StepDefinitions.CustomerOnboardStepDef - launching c_ledger url
+2024-12-27 18:10:31 [main] INFO  StepDefinitions.CustomerOnboardStepDef - getting the first chrome tab handle and store it
+2024-12-27 18:10:31 [main] INFO  StepDefinitions.CustomerOnboardStepDef - entered credentials and click login the c_ledger
+2024-12-27 18:10:32 [main] INFO  StepDefinitions.CustomerOnboardStepDef - Confirms that we ar in the home page of cledger
+2024-12-27 18:10:38 [main] INFO  StepDefinitions.CustomerOnboardStepDef - preparing xml file to upload
+2024-12-27 18:17:52 [main] INFO  StepDefinitions.CustomerOnboardStepDef - get the launched webdriver
+2024-12-27 18:17:53 [main] INFO  TestUtils.WebDriverUtils - returning the thread local webdriver
+2024-12-27 18:17:53 [main] INFO  StepDefinitions.CustomerOnboardStepDef - launching c_ledger url
+2024-12-27 18:17:55 [main] INFO  StepDefinitions.CustomerOnboardStepDef - getting the first chrome tab handle and store it
+2024-12-27 18:17:55 [main] INFO  StepDefinitions.CustomerOnboardStepDef - entered credentials and click login the c_ledger
+2024-12-27 18:17:56 [main] INFO  StepDefinitions.CustomerOnboardStepDef - Confirms that we ar in the home page of cledger
+2024-12-27 18:18:00 [main] INFO  StepDefinitions.CustomerOnboardStepDef - preparing xml file to upload
+2024-12-27 18:26:43 [main] INFO  StepDefinitions.CustomerOnboardStepDef - get the launched webdriver
+2024-12-27 18:26:44 [main] INFO  TestUtils.WebDriverUtils - returning the thread local webdriver
+2024-12-27 18:26:44 [main] INFO  StepDefinitions.CustomerOnboardStepDef - launching c_ledger url
+2024-12-27 18:26:47 [main] INFO  StepDefinitions.CustomerOnboardStepDef - getting the first chrome tab handle and store it
+2024-12-27 18:26:47 [main] INFO  StepDefinitions.CustomerOnboardStepDef - entered credentials and click login the c_ledger
+2024-12-27 18:26:48 [main] INFO  StepDefinitions.CustomerOnboardStepDef - Confirms that we ar in the home page of cledger
+2024-12-27 18:26:50 [main] INFO  StepDefinitions.CustomerOnboardStepDef - preparing xml file to upload
+2024-12-27 18:53:38 [main] INFO  StepDefinitions.CustomerOnboardStepDef - get the launched webdriver
+2024-12-27 18:53:39 [main] INFO  TestUtils.WebDriverUtils - returning the thread local webdriver
+2024-12-27 18:53:39 [main] INFO  StepDefinitions.CustomerOnboardStepDef - launching c_ledger url
+2024-12-27 18:53:42 [main] INFO  StepDefinitions.CustomerOnboardStepDef - getting the first chrome tab handle and store it
+2024-12-27 18:53:42 [main] INFO  StepDefinitions.CustomerOnboardStepDef - entered credentials and click login the c_ledger
+2024-12-27 18:53:43 [main] INFO  StepDefinitions.CustomerOnboardStepDef - Confirms that we ar in the home page of cledger
+2024-12-27 18:53:49 [main] INFO  StepDefinitions.CustomerOnboardStepDef - preparing xml file to upload
+2024-12-27 19:04:18 [main] INFO  StepDefinitions.CustomerOnboardStepDef - get the launched webdriver
+2024-12-27 19:04:19 [main] INFO  TestUtils.WebDriverUtils - returning the thread local webdriver
+2024-12-27 19:04:19 [main] INFO  StepDefinitions.CustomerOnboardStepDef - launching c_ledger url
+2024-12-27 19:04:22 [main] INFO  StepDefinitions.CustomerOnboardStepDef - getting the first chrome tab handle and store it
+2024-12-27 19:04:22 [main] INFO  StepDefinitions.CustomerOnboardStepDef - entered credentials and click login the c_ledger
+2024-12-27 19:04:23 [main] INFO  StepDefinitions.CustomerOnboardStepDef - Confirms that we ar in the home page of cledger
+2024-12-27 19:04:23 [main] INFO  StepDefinitions.CustomerOnboardStepDef - preparing xml file to upload
+2024-12-27 19:07:49 [main] INFO  StepDefinitions.CustomerOnboardStepDef - get the launched webdriver
+2024-12-27 19:07:50 [main] INFO  TestUtils.WebDriverUtils - returning the thread local webdriver
+2024-12-27 19:07:50 [main] INFO  StepDefinitions.CustomerOnboardStepDef - launching c_ledger url
+2024-12-27 19:07:54 [main] INFO  StepDefinitions.CustomerOnboardStepDef - getting the first chrome tab handle and store it
+2024-12-27 19:07:54 [main] INFO  StepDefinitions.CustomerOnboardStepDef - entered credentials and click login the c_ledger
+2024-12-27 19:07:55 [main] INFO  StepDefinitions.CustomerOnboardStepDef - Confirms that we ar in the home page of cledger
+2024-12-27 19:07:55 [main] INFO  StepDefinitions.CustomerOnboardStepDef - preparing xml file to upload
+2024-12-27 19:09:25 [main] INFO  StepDefinitions.CustomerOnboardStepDef - get the launched webdriver
+2024-12-27 19:09:26 [main] INFO  TestUtils.WebDriverUtils - returning the thread local webdriver
+2024-12-27 19:09:26 [main] INFO  StepDefinitions.CustomerOnboardStepDef - launching c_ledger url
+2024-12-27 19:09:29 [main] INFO  StepDefinitions.CustomerOnboardStepDef - getting the first chrome tab handle and store it
+2024-12-27 19:09:29 [main] INFO  StepDefinitions.CustomerOnboardStepDef - entered credentials and click login the c_ledger
+2024-12-27 19:09:30 [main] INFO  StepDefinitions.CustomerOnboardStepDef - Confirms that we ar in the home page of cledger
+2024-12-27 19:09:30 [main] INFO  StepDefinitions.CustomerOnboardStepDef - preparing xml file to upload
+2024-12-27 19:09:31 [main] INFO  StepDefinitions.CustomerOnboardStepDef - clicked Tasks menu from the home page
+2024-12-27 19:09:32 [main] INFO  StepDefinitions.CustomerOnboardStepDef - clicked profile token list from Tasks
+2024-12-27 19:09:32 [main] INFO  StepDefinitions.CustomerOnboardStepDef - click New Lotus Token Profile
+2024-12-27 19:09:32 [main] INFO  StepDefinitions.CustomerOnboardStepDef - enter token number
+2024-12-27 19:09:32 [main] INFO  StepDefinitions.CustomerOnboardStepDef - select xml file from the project directory
+2024-12-27 19:09:34 [main] INFO  StepDefinitions.CustomerOnboardStepDef - click create
+2024-12-27 19:09:35 [main] INFO  StepDefinitions.CustomerOnboardStepDef - click continue
+2024-12-27 19:09:35 [main] INFO  StepDefinitions.CustomerOnboardStepDef - click VIEW to approve the token xml file
+2024-12-27 19:09:35 [main] INFO  StepDefinitions.CustomerOnboardStepDef - scroll down until Save button visible
+2024-12-27 19:09:36 [main] INFO  StepDefinitions.CustomerOnboardStepDef - selet pool account to map to the newly created account
+2024-12-27 19:09:40 [main] INFO  StepDefinitions.CustomerOnboardStepDef - click Save button
+2024-12-27 19:09:40 [main] INFO  StepDefinitions.CustomerOnboardStepDef - Open a new tab using JavaScript to navigate to Context Engine URL
+2024-12-27 19:09:40 [main] INFO  StepDefinitions.CustomerOnboardStepDef - switching to second tab - CE
+2024-12-27 19:09:42 [main] INFO  StepDefinitions.CustomerOnboardStepDef - enter ce username
+2024-12-27 19:09:42 [main] INFO  StepDefinitions.CustomerOnboardStepDef - enter ce password
+2024-12-27 19:09:44 [main] INFO  StepDefinitions.CustomerOnboardStepDef - click ce login button
+2024-12-27 19:09:45 [main] INFO  StepDefinitions.CustomerOnboardStepDef - click upload button from pop-up
+2024-12-27 19:09:48 [main] INFO  StepDefinitions.CustomerOnboardStepDef - click Transaction
+2024-12-27 19:09:50 [main] INFO  StepDefinitions.CustomerOnboardStepDef - click ListAll
+2024-12-27 19:22:47 [main] INFO  StepDefinitions.CustomerOnboardStepDef - get the launched webdriver
+2024-12-27 19:22:47 [main] INFO  TestUtils.WebDriverUtils - returning the thread local webdriver
+2024-12-27 19:22:48 [main] INFO  StepDefinitions.CustomerOnboardStepDef - launching c_ledger url
+2024-12-27 19:22:50 [main] INFO  StepDefinitions.CustomerOnboardStepDef - getting the first chrome tab handle and store it
+2024-12-27 19:22:50 [main] INFO  StepDefinitions.CustomerOnboardStepDef - entered credentials and click login the c_ledger
+2024-12-27 19:22:51 [main] INFO  StepDefinitions.CustomerOnboardStepDef - Confirms that we ar in the home page of cledger
+2024-12-27 19:22:51 [main] INFO  StepDefinitions.CustomerOnboardStepDef - preparing xml file to upload
+2024-12-27 19:22:52 [main] INFO  StepDefinitions.CustomerOnboardStepDef - clicked Tasks menu from the home page
+2024-12-27 19:22:52 [main] INFO  StepDefinitions.CustomerOnboardStepDef - clicked profile token list from Tasks
+2024-12-27 19:22:53 [main] INFO  StepDefinitions.CustomerOnboardStepDef - click New Lotus Token Profile
+2024-12-27 19:22:53 [main] INFO  StepDefinitions.CustomerOnboardStepDef - enter token number
+2024-12-27 19:22:53 [main] INFO  StepDefinitions.CustomerOnboardStepDef - select xml file from the project directory
+2024-12-27 19:22:54 [main] INFO  StepDefinitions.CustomerOnboardStepDef - click create
+2024-12-27 19:22:55 [main] INFO  StepDefinitions.CustomerOnboardStepDef - click continue
+2024-12-27 19:22:56 [main] INFO  StepDefinitions.CustomerOnboardStepDef - click VIEW to approve the token xml file
+2024-12-27 19:22:56 [main] INFO  StepDefinitions.CustomerOnboardStepDef - scroll down until Save button visible
+2024-12-27 19:22:56 [main] INFO  StepDefinitions.CustomerOnboardStepDef - selet pool account to map to the newly created account
+2024-12-27 19:23:01 [main] INFO  StepDefinitions.CustomerOnboardStepDef - click Save button
+2024-12-27 19:23:01 [main] INFO  StepDefinitions.CustomerOnboardStepDef - Open a new tab using JavaScript to navigate to Context Engine URL
+2024-12-27 19:23:01 [main] INFO  StepDefinitions.CustomerOnboardStepDef - switching to second tab - CE
+2024-12-27 19:23:03 [main] INFO  StepDefinitions.CustomerOnboardStepDef - enter ce username
+2024-12-27 19:23:03 [main] INFO  StepDefinitions.CustomerOnboardStepDef - enter ce password
+2024-12-27 19:23:04 [main] INFO  StepDefinitions.CustomerOnboardStepDef - click ce login button
+2024-12-27 19:23:06 [main] INFO  StepDefinitions.CustomerOnboardStepDef - click upload button from pop-up
+2024-12-27 19:23:08 [main] INFO  StepDefinitions.CustomerOnboardStepDef - click Transaction
+2024-12-27 19:23:10 [main] INFO  StepDefinitions.CustomerOnboardStepDef - click ListAll
